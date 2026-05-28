@@ -1,3 +1,4 @@
 - [2026-05-22] (Friday) Verified random salt generation produces unique values across runs
 - [2026-05-25] (Monday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-05-26] (Tuesday) Verified wrong password produces garbled output, not a crash
+- [2026-05-28] (Thursday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
