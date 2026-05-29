@@ -2,3 +2,4 @@
 - [2026-05-25] (Monday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-05-26] (Tuesday) Verified wrong password produces garbled output, not a crash
 - [2026-05-28] (Thursday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
+- [2026-05-29] (Friday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
