@@ -5,3 +5,4 @@
 - [2026-05-29] (Friday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-06-01] (Monday) Verified random salt generation produces unique values across runs
 - [2026-06-02] (Tuesday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
+- [2026-06-03] (Wednesday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
