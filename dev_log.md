@@ -6,3 +6,4 @@
 - [2026-06-01] (Monday) Verified random salt generation produces unique values across runs
 - [2026-06-02] (Tuesday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-06-03] (Wednesday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
+- [2026-06-04] (Thursday) Tested with large file (100MB) — memory usage stays flat with chunked reads
