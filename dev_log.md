@@ -20,3 +20,4 @@
 - [2026-06-19] (Friday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
 - [2026-06-22] (Monday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-06-23] (Tuesday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
+- [2026-06-24] (Wednesday) Tested with large file (100MB) — memory usage stays flat with chunked reads
