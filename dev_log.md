@@ -26,3 +26,4 @@
 - [2026-06-29] (Monday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
 - [2026-06-30] (Tuesday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
 - [2026-07-01] (Wednesday) Verified random salt generation produces unique values across runs
+- [2026-07-02] (Thursday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
