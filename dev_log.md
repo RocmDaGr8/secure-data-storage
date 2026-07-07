@@ -29,3 +29,4 @@
 - [2026-07-02] (Thursday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-07-03] (Friday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-07-06] (Monday) Reviewed Makefile — added clean target for build artifacts
+- [2026-07-07] (Tuesday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
