@@ -33,3 +33,4 @@
 - [2026-07-08] (Wednesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-07-09] (Thursday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
 - [2026-07-10] (Friday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
+- [2026-07-13] (Monday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
