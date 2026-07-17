@@ -37,3 +37,4 @@
 - [2026-07-14] (Tuesday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-07-15] (Wednesday) Verified wrong password produces garbled output, not a crash
 - [2026-07-16] (Thursday) Reviewed Makefile — added clean target for build artifacts
+- [2026-07-17] (Friday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
