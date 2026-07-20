@@ -38,3 +38,4 @@
 - [2026-07-15] (Wednesday) Verified wrong password produces garbled output, not a crash
 - [2026-07-16] (Thursday) Reviewed Makefile — added clean target for build artifacts
 - [2026-07-17] (Friday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
+- [2026-07-20] (Monday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
