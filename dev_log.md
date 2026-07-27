@@ -43,3 +43,4 @@
 - [2026-07-22] (Wednesday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-07-23] (Thursday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-07-24] (Friday) Tested with large file (100MB) — memory usage stays flat with chunked reads
+- [2026-07-27] (Monday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
