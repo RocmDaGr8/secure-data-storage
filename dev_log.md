@@ -44,3 +44,4 @@
 - [2026-07-23] (Thursday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-07-24] (Friday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-07-27] (Monday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
+- [2026-07-28] (Tuesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
