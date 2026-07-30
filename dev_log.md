@@ -46,3 +46,4 @@
 - [2026-07-27] (Monday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
 - [2026-07-28] (Tuesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-07-29] (Wednesday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
+- [2026-07-30] (Thursday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
