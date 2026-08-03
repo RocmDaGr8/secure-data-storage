@@ -48,3 +48,4 @@
 - [2026-07-29] (Wednesday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
 - [2026-07-30] (Thursday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
 - [2026-07-31] (Friday) Verified random salt generation produces unique values across runs
+- [2026-08-03] (Monday) Tested with large file (100MB) — memory usage stays flat with chunked reads
