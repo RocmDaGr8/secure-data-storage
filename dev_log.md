@@ -52,3 +52,4 @@
 - [2026-08-04] (Tuesday) Verified wrong password produces garbled output, not a crash
 - [2026-08-05] (Wednesday) Reviewed Makefile — added clean target for build artifacts
 - [2026-08-07] (Friday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
+- [2026-08-10] (Monday) Verified random salt generation produces unique values across runs
