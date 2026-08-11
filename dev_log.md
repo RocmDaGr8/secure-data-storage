@@ -53,3 +53,4 @@
 - [2026-08-05] (Wednesday) Reviewed Makefile — added clean target for build artifacts
 - [2026-08-07] (Friday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-08-10] (Monday) Verified random salt generation produces unique values across runs
+- [2026-08-11] (Tuesday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
