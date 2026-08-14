@@ -56,3 +56,4 @@
 - [2026-08-11] (Tuesday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-08-12] (Wednesday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-08-13] (Thursday) Tested with large file (100MB) — memory usage stays flat with chunked reads
+- [2026-08-14] (Friday) Verified wrong password produces garbled output, not a crash
