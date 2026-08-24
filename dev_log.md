@@ -62,3 +62,4 @@
 - [2026-08-19] (Wednesday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
 - [2026-08-20] (Thursday) Verified random salt generation produces unique values across runs
 - [2026-08-21] (Friday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
+- [2026-08-24] (Monday) Verified wrong password produces garbled output, not a crash
