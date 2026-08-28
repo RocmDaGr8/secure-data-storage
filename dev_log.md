@@ -66,3 +66,4 @@
 - [2026-08-25] (Tuesday) Reviewed Makefile — added clean target for build artifacts
 - [2026-08-26] (Wednesday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
 - [2026-08-27] (Thursday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
+- [2026-08-28] (Friday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
