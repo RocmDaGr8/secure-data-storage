@@ -67,3 +67,4 @@
 - [2026-08-26] (Wednesday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
 - [2026-08-27] (Thursday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-08-28] (Friday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
+- [2026-08-31] (Monday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
