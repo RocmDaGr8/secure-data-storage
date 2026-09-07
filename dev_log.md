@@ -72,3 +72,4 @@
 - [2026-09-02] (Wednesday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-09-03] (Thursday) Verified wrong password produces garbled output, not a crash
 - [2026-09-04] (Friday) Reviewed Makefile — added clean target for build artifacts
+- [2026-09-07] (Monday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
