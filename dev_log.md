@@ -76,3 +76,4 @@
 - [2026-09-08] (Tuesday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
 - [2026-09-09] (Wednesday) Verified random salt generation produces unique values across runs
 - [2026-09-10] (Thursday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
+- [2026-09-11] (Friday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
