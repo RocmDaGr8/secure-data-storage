@@ -79,3 +79,4 @@
 - [2026-09-11] (Friday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-09-14] (Monday) Reviewed Makefile — added clean target for build artifacts
 - [2026-09-15] (Tuesday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
+- [2026-09-16] (Wednesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
