@@ -83,3 +83,4 @@
 - [2026-09-17] (Thursday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
 - [2026-09-18] (Friday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
 - [2026-09-21] (Monday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
+- [2026-09-22] (Tuesday) Tested with large file (100MB) — memory usage stays flat with chunked reads
