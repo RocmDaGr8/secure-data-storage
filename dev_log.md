@@ -94,3 +94,4 @@
 - [2026-10-02] (Friday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-10-05] (Monday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
 - [2026-10-06] (Tuesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
+- [2026-10-08] (Thursday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
