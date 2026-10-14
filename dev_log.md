@@ -98,3 +98,4 @@
 - [2026-10-09] (Friday) Verified random salt generation produces unique values across runs
 - [2026-10-12] (Monday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-10-13] (Tuesday) Verified wrong password produces garbled output, not a crash
+- [2026-10-14] (Wednesday) Reviewed Makefile — added clean target for build artifacts
