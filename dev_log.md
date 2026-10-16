@@ -100,3 +100,4 @@
 - [2026-10-13] (Tuesday) Verified wrong password produces garbled output, not a crash
 - [2026-10-14] (Wednesday) Reviewed Makefile — added clean target for build artifacts
 - [2026-10-15] (Thursday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
+- [2026-10-16] (Friday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
