@@ -102,3 +102,4 @@
 - [2026-10-15] (Thursday) Cross-checked key derivation against OpenSSL CLI enc -pbkdf2 output
 - [2026-10-16] (Friday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-10-19] (Monday) Verified random salt generation produces unique values across runs
+- [2026-10-20] (Tuesday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
