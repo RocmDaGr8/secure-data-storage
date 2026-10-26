@@ -106,3 +106,4 @@
 - [2026-10-21] (Wednesday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-10-22] (Thursday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-10-23] (Friday) Verified wrong password produces garbled output, not a crash
+- [2026-10-26] (Monday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
