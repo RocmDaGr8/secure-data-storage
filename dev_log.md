@@ -107,3 +107,4 @@
 - [2026-10-22] (Thursday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-10-23] (Friday) Verified wrong password produces garbled output, not a crash
 - [2026-10-26] (Monday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
+- [2026-10-27] (Tuesday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
