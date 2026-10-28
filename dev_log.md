@@ -108,3 +108,4 @@
 - [2026-10-23] (Friday) Verified wrong password produces garbled output, not a crash
 - [2026-10-26] (Monday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-10-27] (Tuesday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
+- [2026-10-28] (Wednesday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
