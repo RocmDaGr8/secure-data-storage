@@ -112,3 +112,4 @@
 - [2026-10-29] (Thursday) Verified random salt generation produces unique values across runs
 - [2026-10-30] (Friday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-11-02] (Monday) Verified wrong password produces garbled output, not a crash
+- [2026-11-03] (Tuesday) Reviewed Makefile — added clean target for build artifacts
