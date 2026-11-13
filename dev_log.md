@@ -120,3 +120,4 @@
 - [2026-11-10] (Tuesday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
 - [2026-11-11] (Wednesday) Tested with large file (100MB) — memory usage stays flat with chunked reads
 - [2026-11-12] (Thursday) Verified wrong password produces garbled output, not a crash
+- [2026-11-13] (Friday) Reviewed Makefile — added clean target for build artifacts
