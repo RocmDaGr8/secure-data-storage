@@ -122,3 +122,4 @@
 - [2026-11-12] (Thursday) Verified wrong password produces garbled output, not a crash
 - [2026-11-13] (Friday) Reviewed Makefile — added clean target for build artifacts
 - [2026-11-16] (Monday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
+- [2026-11-17] (Tuesday) Tested encrypt/decrypt round-trip on binary files — byte-perfect match verified
