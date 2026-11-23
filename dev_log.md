@@ -126,3 +126,4 @@
 - [2026-11-18] (Wednesday) Verified random salt generation produces unique values across runs
 - [2026-11-19] (Thursday) Checked AES-256-CBC output format: [salt 8B][IV 16B][ciphertext]
 - [2026-11-20] (Friday) Reviewed OpenSSL EVP_EncryptFinal_ex padding behavior
+- [2026-11-23] (Monday) Reviewed Makefile — added clean target for build artifacts
