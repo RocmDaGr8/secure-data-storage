@@ -129,3 +129,4 @@
 - [2026-11-23] (Monday) Reviewed Makefile — added clean target for build artifacts
 - [2026-11-25] (Wednesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
 - [2026-11-25] (Wednesday) Reviewed IV uniqueness requirement — confirmed fresh random IV per encryption
+- [2026-11-26] (Thursday) Reviewed PBKDF2-SHA256 iteration count — 100k is current NIST recommendation
